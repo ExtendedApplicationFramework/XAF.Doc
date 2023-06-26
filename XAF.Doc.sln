@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{04FDB238-CD70-41F0-A501-BEDBF1AA217F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XAF.Doc", "src\XAF.Doc\XAF.Doc.csproj", "{9EA15E39-F4EA-419E-9EC4-4696795791EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EA15E39-F4EA-419E-9EC4-4696795791EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EA15E39-F4EA-419E-9EC4-4696795791EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EA15E39-F4EA-419E-9EC4-4696795791EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EA15E39-F4EA-419E-9EC4-4696795791EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9EA15E39-F4EA-419E-9EC4-4696795791EE} = {04FDB238-CD70-41F0-A501-BEDBF1AA217F}
+	EndGlobalSection
+EndGlobal
